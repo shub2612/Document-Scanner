@@ -3,7 +3,7 @@ This is a repository that is aimed to help you work around on a computer vision 
 
 ## The codebase
 
-### requiremnts.txt
+### requirements.txt
 1.  Opencv - python
 2.  numpy
 3.  imutils
