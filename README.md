@@ -17,3 +17,5 @@ Words of Caution: To get a clean and market worthy scan please use a contrast ba
 ### Additional inputs
 This folder contains images that can be used as validation for the scanner. These images provide a good range of possibilities to test the scanner.py file.
 
+### Pitfalls
+This folder contains the possible pitfall scenarios that the user can face. 
