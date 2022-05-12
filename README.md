@@ -13,3 +13,4 @@ This python file takes the input from the user in the form of the image to be sc
 Necessary comments have been added for simplification of the code, but for further reference https://docs.opencv.org/4.x/index.html is a very good place to visit.
 
 Words of Caution: To get a clean and market worthy scan please use a contrast background from the image. This helps in creating the edges of the document properly which is the backbone of this algorithm.
+asdasaca
